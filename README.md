@@ -1,7 +1,7 @@
 # UNO Card Detection using Pattern Matching
 
 **Team Uno Reverse**  
-*Amey Karan (2022111026), Devansh Kantesaria (2022112003)*  
+*Bhaskar Bhatt (2022102003), Akshat Tiwari (2022102043)*  
 *IIIT Hyderabad*
 
 ---
